@@ -5,7 +5,7 @@ This project aims to develop an automated tool for extracting synthesis step inf
 
 pip install -r requirements.txt
 
-If you encounter missing dependencies while running your code or program, you can use the pip command to install those dependencies. Here's
+If you encounter missing dependencies while running your code or program, you can use the pip command to install those dependencies. 
 
 #Data Preparation: 
 

@@ -9,4 +9,4 @@ If you encounter missing dependencies while running your code or program, you ca
 
 #Data Preparation: 
 
-The references for 79 articles are provided in the 'ArticleID.docx' file. You can prepare the PDF full-texts and place them in a folder named 'pdf_79'. Then, run the code in the 'main_code.ipynb' file. Please note that the file 'CPP_true.xlsx' contains manually extracted paragraphs, and 'EntityInformation_true.xlsx' contains manually extracted entities, which are intended for comparison with the results obtained using regular expression extraction.
+The references for 79 articles are provided in the 'ArticleID.docx' file. You can prepare the PDF full-texts and place them in a folder named 'pdf_79'. Then, run the code in the 'main_code.ipynb' file. Please note that the file 'CPP_true.xlsx' contains manually extracted paragraphs, and 'EntityInformation_true.xlsx' contains manually extracted entities, which are intended for comparison with the results obtained using regular expression extraction.These two files need to be prepared based on the provided article IDs.
